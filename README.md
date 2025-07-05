@@ -21,10 +21,12 @@ A high-level overview of total sales (769M), quantity sold (19K), transaction co
   [Dashboard] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/dashboard.png)
 
 
+
 2. 📅 MTD (Month to Date) :
 Month-to-date visual trends by year, quarter, and day. This sheet provides time-filtered metrics with line charts comparing sales growth patterns throughout the month.
 
   [MTD] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/mtd.png)
+  
 
 
 3. 📈 Same Period Last Year :
