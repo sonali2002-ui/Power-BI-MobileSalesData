@@ -15,19 +15,19 @@ This Power BI report presents a detailed analysis of mobile phone sales across d
 
 # 🖼️ Report Previews
 
-# 1. 🧩 Dashboard :
+1. 🧩 Dashboard :
 A high-level overview of total sales (769M), quantity sold (19K), transaction count (4K), and average selling price. Includes breakdowns by mobile model, brand, payment method, sales by city, day of week, and customer ratings.
 
   [Dashboard] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/dashboard.png)
 
 
-# 2. 📅 MTD (Month to Date) :
+2. 📅 MTD (Month to Date) :
 Month-to-date visual trends by year, quarter, and day. This sheet provides time-filtered metrics with line charts comparing sales growth patterns throughout the month.
 
   [MTD] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/mtd.png)
 
 
-# 3. 📈 Same Period Last Year :
+3. 📈 Same Period Last Year :
 Compares current year’s performance to the same time frame in the previous year using bar and line charts segmented by year, quarter, and month.
 
   [Same Period Last Year] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/same_period_last_year.png)
