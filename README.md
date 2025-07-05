@@ -47,7 +47,9 @@ Compares current year’s performance to the same time frame in the previous yea
 # 🛠️ Tools Used
 
 •	Power BI Desktop
+
 •	Sample sales dataset (anonymized)
+
 •	Bing Maps & OpenStreetMap for location-based visuals
 
 # 📝 Notes
