@@ -8,8 +8,8 @@ This Power BI report presents a detailed analysis of mobile phone sales across d
 
 # 📁 Downloads
 
-- 📄 PDF Report (./reports/Mobile%20Sales%20Data.pdf)
-- 🔗 PBIX File (Power BI Report) (./reports/MobileSalesDashboard.pbix)
+- 📄 PDF Report (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/Mobile%20Sales%20Data.pdf)
+- 🔗 PBIX File (Power BI Report) (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/Mobile%20Sales%20Data.pbix)
 
 
 
@@ -18,21 +18,19 @@ This Power BI report presents a detailed analysis of mobile phone sales across d
 1. 🧩 Dashboard :
 A high-level overview of total sales (769M), quantity sold (19K), transaction count (4K), and average selling price. Includes breakdowns by mobile model, brand, payment method, sales by city, day of week, and customer ratings.
 
-[Dashboard] (./image/dashboard.png)
+[Dashboard] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/dashboard.png)
 
----
 
 2. 📅 MTD (Month to Date) :
 Month-to-date visual trends by year, quarter, and day. This sheet provides time-filtered metrics with line charts comparing sales growth patterns throughout the month.
 
-[MTD] (./image/mtd.png)
+[MTD] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/mtd.png)
 
----
 
 3. 📈 Same Period Last Year :
 Compares current year’s performance to the same time frame in the previous year using bar and line charts segmented by year, quarter, and month.
 
-[Same Period Last Year] (./image/same_period_last_year.png)
+[Same Period Last Year] (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/same_period_last_year.png)
 
 
 # 📌 Sheet Descriptions
