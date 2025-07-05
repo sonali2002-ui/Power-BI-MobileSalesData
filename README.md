@@ -8,7 +8,7 @@ This Power BI report presents a detailed analysis of mobile phone sales across d
 
 # 📁 Downloads
 
-- 📄 PDF Report (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/Mobile%20Sales%20Data.pdf)  Mobile Sales Data.pbix
+- 📄 PDF Report (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/Mobile%20Sales%20Data.pdf)
   
 - 🔗 PBIX File (Power BI Report) (https://github.com/sonali2002-ui/Power-BI-MobileSalesData/blob/main/Mobile%20Sales%20Data.pbix)
 
